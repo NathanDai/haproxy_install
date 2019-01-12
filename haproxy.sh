@@ -4,10 +4,6 @@
 #
 # Description: Install haproxy for Shadowsocks server
 #
-# 
-#
-# 
-#
 
 cur_dir=`pwd`
 
@@ -245,7 +241,6 @@ install(){
     echo -e "Your haproxy Server port: \033[41;37m ${haproxyport} \033[0m"
     echo -e "Your Input Shadowsocks IP: \033[41;37m ${haproxyip} \033[0m"
     echo
-    echo "Welcome to visit: https://shadowsocks.be/10.html"
     echo "Enjoy it."
     echo
 }

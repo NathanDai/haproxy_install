@@ -55,4 +55,5 @@ Press any key to start...or Press Ctrl+C to cancel
 
 + 状态：service haproxy status
 
-+ 配置文件路径：/etc/haproxy/haproxy.cfg
+## 配置文件路径：
++ /etc/haproxy/haproxy.cfg
